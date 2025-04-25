@@ -43,7 +43,7 @@ These insights and metrics equip Atliq Hotels to sharpen strategies, enhance gue
 * DAX- Key measures creation and metrics
 
 ## Interactive dashboard:
-https://bit.ly/3S01877
+<iframe title="Hotel Business Analysis" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZGE1OGUxOWItY2ViZC00YWI2LWFmYTItOTVmOWNkYmQzY2QzIiwidCI6ImRjNjgzMDZiLTgxYWItNGVhNS04ODQyLWNjMmM3NjQ3ZjVlNyJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 Takeaway:
 The dashboard highlights the powerfull BI solutions in enhancing profit, customer experiences, startegic planing in hotel industry.
